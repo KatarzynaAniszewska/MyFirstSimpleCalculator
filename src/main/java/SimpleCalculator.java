@@ -6,7 +6,7 @@ public class SimpleCalculator {
 
         }
         public int subtractAfromB (int  a, int b ){
-        return a - b;
+        return a + b;
 
     }
     public static void main (String[]args){
