@@ -2,7 +2,7 @@ import java.util.*;
 public class SimpleCalculator {
 
         public int addAtoB (int  a, int b ){
-            return a-b;
+            return a+b;
 
         }
         public int subtractAfromB (int  a, int b ){
